@@ -1,0 +1,9 @@
+Package: lh-payload-guard
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-payload - Aho-Corasick Multi-Pattern Threat Vector Accumulation
+ Deep HTTP request payload inspection engine detecting SQL Injection (SQLi), Cross-Site Scripting (XSS), Server-Side Template Injection (SSTI), XXE, SSRF, and path traversal attack signatures.
